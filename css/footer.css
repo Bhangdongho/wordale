@@ -1,0 +1,38 @@
+footer {
+  padding-top: 250px;
+}
+
+.keyboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-block {
+  padding: 15px 15px 15px 15px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #d3d6da;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.keyboard-left {
+  padding: 19px 15px 19px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #d3d6da;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.keyboard-right {
+  padding: 14px 18px 14px 18px;
+  background-color: #d3d6da;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.keyboard-right img {
+  width: 25px;
+}
